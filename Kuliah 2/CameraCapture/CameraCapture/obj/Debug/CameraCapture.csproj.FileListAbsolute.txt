@@ -1,0 +1,34 @@
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\AForge.dll
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\AForge.Video.DirectShow.dll
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\AForge.Video.dll
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\AForge.xml
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\AForge.Video.xml
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\bin\Debug\AForge.Video.DirectShow.xml
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Form1.resources
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+D:\KULIAH\SEMESTER 5\PBKK\CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\AForge.dll
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\AForge.Video.DirectShow.dll
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\AForge.Video.dll
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\AForge.xml
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\AForge.Video.xml
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\bin\Debug\AForge.Video.DirectShow.xml
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Form1.resources
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+D:\KULIAH\SEMESTER 5\PBKK\PBKK\Kuliah 2\CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
