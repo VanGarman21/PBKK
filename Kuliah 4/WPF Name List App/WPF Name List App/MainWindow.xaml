@@ -1,0 +1,41 @@
+﻿<Window x:Class="WPF_Name_List_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Name_List_App"
+        mc:Ignorable="d"
+        Title="Name List App" Height="360" Width="520">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="#FF0978CD" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="10">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF097BD2" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Label>Names</Label>
+        <ListBox Grid.Row="1" x:Name="lstNames" />
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0">
+            <TextBox x:Name="txtName" />
+            <Button x:Name="buttonAdd" Margin="0,5,0,0" Click="ButtonAddName_Click" BorderBrush="#FFD7D2D2">Add Name</Button>
+        </StackPanel>
+    </Grid>
+</Window>
