@@ -10,6 +10,8 @@ Aplikasi Dashboard App merupakan tampilan UI dari suatu dashboard menggunakan .N
 
 ## Dokumentasi
 
+![image](https://github.com/VanGarman21/PBKK/assets/100523471/628c6134-7db6-47cd-895e-9b56be9a8489)
+
 
 ## Referensi
 
