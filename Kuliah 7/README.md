@@ -10,7 +10,10 @@ Aplikasi Mobile dengan menggunakan .NET MAUI dan Visual Studio. Tujuannya hanya 
 
 ## Dokumentasi
 
-![image](https://github.com/VanGarman21/PBKK/assets/100523471/628c6134-7db6-47cd-895e-9b56be9a8489)
+![Screenshot 2023-10-09 171820](https://github.com/VanGarman21/PBKK/assets/100523471/0b40f5d2-6b2e-41cf-8fe2-7ef7920e2047)
+
+![Screenshot 2023-10-09 171854](https://github.com/VanGarman21/PBKK/assets/100523471/038ee9d3-5c4b-49f5-a279-50172b8be40e)
+
 
 ## Referensi
 
